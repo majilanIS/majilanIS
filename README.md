@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Chekole
 
-💻 FullStack developer with AI passionate 
-🚀 Focused on building real-world applications  
-📍 Addis Ababa, Ethiopia  
+-💻 FullStack developer with AI passionate 
+-🚀 Focused on building real-world applications  
+-📍 Addis Ababa, Ethiopia  
 
 ---
 
@@ -28,7 +28,7 @@ reliable, efficient, and impactful solutions.
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts" />
+      <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs,express" />
