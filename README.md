@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chekole
 
-💻 Passionate Web & Mobile Developer  
+💻 FullStack developer with AI passionate 
 🚀 Focused on building real-world applications  
 📍 Addis Ababa, Ethiopia  
 
@@ -8,10 +8,14 @@
 
 ## 🧠 About Me
 
-- 🌱 Currently learning: **Advanced React & Backend Development**
-- 💡 Interested in: **Full Stack Development & Mobile Apps**
-- 🎯 Goal: **Get a Web Development Internship**
-- ⚡ Fun fact: I love building apps that solve real problems
+Backend-leaning Full-Stack Developer with experience building scalable web applications 
+and AI-driven solutions. Strong in Node.js and Express for developing robust backend 
+systems and RESTful APIs, with solid frontend and mobile development skills using React 
+and React Native. Proficient in JavaScript and Python, with hands-on experience in 
+database integration, CI/CD practices, and delivering production-ready applications. Familiar 
+with machine learning fundamentals and emerging AI technologies, including 
+Retrieval-Augmented Generation (RAG). Collaborative team players focused on building 
+reliable, efficient, and impactful solutions. 
 
 ---
 
@@ -45,22 +49,6 @@
 </table>
 
 ---
-
-## 🏆 Featured Projects
-
-### 🎯 Quiz App
-Interactive quiz app with categories, difficulty levels, and timer  
-
-🔗 Live Demo: https://your-link.com  
-💻 GitHub: https://github.com/your-repo  
-
----
-
-### 🎙 Podcast App
-Personal podcast player for developers  
-
-🔗 Live Demo: https://your-link.com  
-💻 GitHub: https://github.com/your-repo  
 
 ---
 
