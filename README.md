@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Chekole
+#  Hey, I'm Chekole
 
 ### 🚀 Full-Stack Developer • Backend Engineer • AI Engineer
 
@@ -90,7 +90,7 @@ SQL Server
 
 ---
 
-# 📌 Featured Projects
+# 📌 Examples Featured Projects
 
 <div align="center">
 
@@ -121,8 +121,11 @@ SQL Server
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=majilanIS&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majilanIS&layout=compact&theme=tokyonight" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=majilanIS&show_icons=true&theme=tokyonight&count_private=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majilanIS&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
