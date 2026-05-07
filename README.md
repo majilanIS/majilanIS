@@ -125,9 +125,9 @@ Currently, my focus is on building impactful applications that combine scalabili
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=majilanIS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=majilanIS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majilanIS&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majilanIS&layout=compact&langs_count=8&theme=tokyonight" />
 
 </div>
 
