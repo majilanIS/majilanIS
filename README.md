@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hey, I'm Chekole
+# 👋 Hey, I'm Chekole
 
 ### 🚀 Full-Stack Developer • Backend Engineer • AI Engineer
 
@@ -28,11 +28,9 @@
 
 I’m a backend-focused Full-Stack Developer passionate about building scalable web applications and AI-powered systems.
 
-My expertise lies in developing robust backend systems and RESTful APIs using **Node.js** and **Express.js**, while also building responsive frontend and mobile applications with **React.js** and **React Native**.
+My expertise lies in Node.js, Express.js, React.js, and React Native, with strong focus on backend architecture and REST APIs.
 
-I enjoy solving real-world problems through clean architecture, scalable system design, and modern engineering practices. I’m actively exploring AI engineering concepts such as **Retrieval-Augmented Generation (RAG)**, machine learning fundamentals, and intelligent application design.
-
-I also work with databases, Docker containerization, CI/CD pipelines, and deployment workflows. My focus is on building production-ready systems with performance, scalability, and maintainability in mind.
+I also work with Docker, CI/CD pipelines, databases, and cloud deployment while actively exploring AI engineering (RAG, ML systems, intelligent apps).
 
 ---
 
@@ -41,37 +39,22 @@ I also work with databases, Docker containerization, CI/CD pipelines, and deploy
 <div align="center">
 
 ## 🚀 Languages & Frameworks
-
 <img src="https://skillicons.dev/icons?i=js,python,nodejs,express,react,html,css" />
 
----
-
 ## 🗄️ Databases
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
 SQL Server
 
----
-
 ## ⚙️ DevOps & Tools
-
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,postman" />
 
----
-
-## ☁️ Deployment & Cloud
-
+## ☁️ Deployment
 <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
 
----
-
 ## 🤖 AI & Data
-
 <p align="center">
   <img src="https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG_Systems-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Analysis-1D4ED8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI_Applications-2563EB?style=for-the-badge" />
 </p>
 
@@ -82,37 +65,23 @@ SQL Server
 # 🏗️ What I Build
 
 ✨ Scalable backend systems  
-✨ RESTful APIs & authentication systems  
+✨ REST APIs & authentication  
 ✨ AI-powered applications  
-✨ Full-stack web platforms  
-✨ Cross-platform mobile applications  
-✨ Automation & developer tools  
+✨ Full-stack platforms  
+✨ Mobile apps  
+✨ Automation tools  
 
 ---
 
-# 📌 Examples Featured Projects
+# 📌 Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🌾 **AgriSpark** | AI-powered agriculture platform for smart farming solutions | React Native • Supabase • Django |
-| 🤖 **AI Chatbot** | RAG-based intelligent assistant with contextual retrieval | Python • AI • Vector Search |
-| 🛡️ **Fraud Detection System** | Machine learning-based insurance fraud detection platform | Python • ML • Data Analysis |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🔗 Project Links
-
-| Project | Repository | Live Demo |
-|---|---|---|
-| AgriSpark | <a href="https://github.com/majilanIS/AgriSpark-app">GitHub</a> | Coming Soon |
-| AI Chatbot | <a href="https://github.com/majilanIS/Adwa-AI-Assistant">GitHub</a> | <a href="https://adwa-ai-assistant-in-text-or-voice.vercel.app">Live Demo</a> |
-| Fraud Detection | <a href="https://github.com/majilanIS/fraud-detection">GitHub</a> | Coming Soon |
+| 🌾 AgriSpark | AI-powered agriculture platform | React Native • Supabase • Django |
+| 🤖 AI Chatbot | RAG-based assistant | Python • AI • Vector DB |
+| 🛡️ Fraud Detection | ML-based fraud system | Python • ML • Data Analysis |
 
 </div>
 
@@ -122,7 +91,7 @@ SQL Server
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=majilanIS&show_icons=true&theme=tokyonight&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=majilanIS&show_icons=true&theme=tokyonight" />
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majilanIS&layout=compact&theme=tokyonight" />
 
@@ -130,22 +99,19 @@ SQL Server
 
 ---
 
-# 🏆 Achievements
+# 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=majilanIS&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majilanIS&theme=tokyonight" />
+</p>
 
 ---
 
-# 🌱 Currently Exploring
+# Currently Exploring
 
 - Advanced AI Engineering  
 - Scalable Backend Architecture  
-- Docker & Containerization  
-- CI/CD & Deployment Pipelines  
+- Docker & CI/CD  
 - Cloud Infrastructure  
 
 ---
@@ -155,20 +121,12 @@ SQL Server
 <div align="center">
 
 <a href="mailto:chekolengusalem@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/chekole-majilan-8b4651336/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### *"Building scalable systems and intelligent solutions through code, curiosity, and continuous learning."*
 
 </div>
 
