@@ -48,9 +48,9 @@ I also work with databases, Docker containerization, CI/CD pipelines, and deploy
 
 ## 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
