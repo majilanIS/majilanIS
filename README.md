@@ -157,6 +157,14 @@ I also work with databases, Docker containerization, CI/CD pipelines, and deploy
 
 </div>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=majilanIS&show_icons=true&theme=tokyonight" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majilanIS&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 <div align="center">
